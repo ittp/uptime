@@ -4,25 +4,17 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: ittps
-    url: https://ittps.ru
-    
-    
-  - name: TP
-    url: tp.ittps.ru
-    
-    
-    
+  - name: api
+    url: https://api.ittps.ru
+  - name: vpn
+    url: https://vpn.ittps.ru
+  
   - name: Test for HEAD
     method: HEAD
-    url: https://www.google.com
-    
+    url: https://api.github.com/
+
   - name: Secret Site
     url: $SECRET_SITE
-#   - name: TCP ping
-#     url: 94.26.139.111
-  - name: boot
-    url: https://boot.ittps.ru
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -31,8 +23,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ittp upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: ""
+  introMessage: ""
   navbar:
     - title: Status
       href: /
