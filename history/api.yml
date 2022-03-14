@@ -1,7 +1,7 @@
 url: https://api.ittps.ru
-status: up
-code: 200
-responseTime: 1246
-lastUpdated: 2022-03-14T04:45:39.386Z
+status: down
+code: 502
+responseTime: 1292
+lastUpdated: 2022-03-14T05:23:13.962Z
 startTime: Sat Mar 05 2022 03:59:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
