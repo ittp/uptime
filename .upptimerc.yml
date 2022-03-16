@@ -4,17 +4,19 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: api
-    url: https://api.ittps.ru
-  - name: vpn
-    url: https://vpn.ittps.ru
+    - name: github
+      url: https://api.github.com/status
+#   - name: api
+#     url: https://api.ittps.ru
+#   - name: vpn
+#     url: https://vpn.ittps.ru
   
-  - name: Test for HEAD
-    method: HEAD
-    url: https://api.github.com/
+#   - name: Test for HEAD
+#     method: HEAD
+#     url: https://api.github.com/
 
-  - name: Secret Site
-    url: $SECRET_SITE
+#   - name: Secret Site
+#     url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
