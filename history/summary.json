@@ -4,17 +4,17 @@
     "url": "https://api.github.com/status",
     "icon": "https://favicons.githubusercontent.com/api.github.com",
     "slug": "github",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 142,
-    "timeWeek": 117,
-    "timeMonth": 136,
-    "timeYear": 132,
+    "time": 131,
+    "timeDay": 84,
+    "timeWeek": 106,
+    "timeMonth": 133,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   }
 ]
