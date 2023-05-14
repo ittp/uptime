@@ -9,7 +9,7 @@ sites:
 #   - name: api
 #     url: https://api.ittps.ru
 #   - name: vpn
-#     url: https://vpn.ittps.ru
+#     url: https://api.partners.market.yandex.ru/v1
   
 #   - name: Test for HEAD
 #     method: HEAD
